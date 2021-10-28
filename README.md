@@ -27,3 +27,7 @@ Analise the requests to answer the following questions:
 * Which government departments are taking most of the complaints/requests?
 * Which government departments are responding and resolving the complaints in the given time?
 
+# Contents:
+
+1. [Data loading and wrapping](https://github.com/Denisebps/Boston311/blob/main/Boston311_cleaning.ipynb)
+
