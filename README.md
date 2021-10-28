@@ -30,7 +30,7 @@ Analise the requests to answer the following questions:
 # Contents:
 
 1. [Data loading and wrapping](https://github.com/Denisebps/Boston311/blob/main/Boston311_cleaning.ipynb)
-2. [Departments analysis] (https://github.com/Denisebps/Boston311/blob/main/Boston311_departments_analysis.ipynb)
+2. [Departments analysis](https://github.com/Denisebps/Boston311/blob/main/Boston311_departments_analysis.ipynb)
 3. Datafolio presented in DS4A - Women's Summit
-4. Dashboard 
+4. Dashboard
 
